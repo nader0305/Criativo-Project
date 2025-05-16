@@ -324,8 +324,8 @@ nav .checkbtn {
     justify-content: center;
   }
   #check:checked ~ .nav-right {
-    left: 0;
-    /* left: -100%; */
+/*     left: 0; */
+    left: -100%;  
   }
 }
 /* End nav */
